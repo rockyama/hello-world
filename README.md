@@ -1,2 +1,3 @@
 # hello-world
 This is my introduction to the Github world.
+When east meets west interesting things happen, more incredibly interesting people emerge. I pride myself in embracing the mantra of being a life-long learner. When those in a similar postion will settle down into their world of comfort and familiarity, I surge forth into the unknown to discover and enlighten. This is the attitude of one that pursues a doctorate in physics for fun. The attitude of a communicator seeking the toughest problems to solve and share. The attitude that drives a sponge for knowledge and experience while sharing those experiences with others in a meaningful way.
